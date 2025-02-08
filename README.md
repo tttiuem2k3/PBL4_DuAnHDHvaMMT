@@ -20,7 +20,7 @@ This project aims to provide an effective solution for managing internet rooms, 
   * Server Interface: Manage machine status, messaging, and billing functions.
 
   * Client Interface: Use the machine and communicate via messages.
-    
+![Demo](./Demo/demo_gif.gif)
 - Watch the full demo video here: https://youtu.be/xFiZ1M9Q2JM
 ## :gear: Key Features
 
