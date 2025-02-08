@@ -6,7 +6,7 @@
 3. [Key Features](#gear-key-features)
 4. [System Architecture](#wrench-system-architecture)
 5. [Technologies Used](#rocket-technologies-used) 
-6. [Installation Guide](#electric_plug-installation-guide)
+6. [Installation Guide](#electric_plug-installation-guide) 
 7. [Usage Guide](#bookmark_tabs-usage-guide)
 8. [Future Development](#dart-future-development)
 9. [Contact](#email-contact)
