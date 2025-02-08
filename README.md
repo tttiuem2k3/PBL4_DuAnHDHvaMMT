@@ -58,7 +58,7 @@ This project aims to provide an effective solution for managing internet rooms, 
 - Import the project into your preferred IDE (Apache Netbeans, IntelliJ IDEA, Eclipse, etc.).
 
 - **Database Setup:**  
-  * Use the [`cmsdatabase.sql`](cmsdatabase.sql) file to set up the MySQL database.  
+  * Use the [`csmdatabase.sql`](csmdatabase.sql) file to set up the MySQL database.  
   * Execute this file in your preferred MySQL management tool, such as phpMyAdmin or MySQL Workbench.  
 
 - Run the project.
