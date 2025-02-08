@@ -1,7 +1,17 @@
 # Internet Room Management System
 
+## Table of Contents
+1. [Introduction](#sparkles-introduction)
+2. [Demo](#tv-demo)
+3. [Key Features](#gear-key-features)
+4. [System Architecture](#wrench-system-architecture)
+5. [Technologies Used](#rocket-technologies-used)
+6. [Installation Guide](#electric_plug-installation-guide)
+7. [Usage Guide](#bookmark_tabs-usage-guide)
+8. [Future Development](#dart-future-development)
+9. [Contact](#email-contact)
+10. [Thank You](#heart-thank-you)
 ## :sparkles: Introduction
-
 This project aims to provide an effective solution for managing internet rooms, ensuring efficient monitoring and control of computers and user accounts. The application is designed following the MVC (Model-View-Controller) architecture, enabling clear separation of concerns for easy maintenance and future development.
 ## :tv: Demo
 
@@ -10,7 +20,8 @@ This project aims to provide an effective solution for managing internet rooms, 
   * Server Interface: Manage machine status, messaging, and billing functions.
 
   * Client Interface: Use the machine and communicate via messages.
-
+    
+- Watch the full demo video here: https://youtu.be/xFiZ1M9Q2JM
 ## :gear: Key Features
 
 ### :computer: Management Functions
@@ -46,7 +57,9 @@ This project aims to provide an effective solution for managing internet rooms, 
 
 - Import the project into your preferred IDE (Apache Netbeans, IntelliJ IDEA, Eclipse, etc.).
 
-- Configure the MySQL database settings in the application: cmsdatabase.sql
+- **Database Setup:**  
+  * Use the [`cmsdatabase.sql`](cmsdatabase.sql) file to set up the MySQL database.  
+  * Execute this file in your preferred MySQL management tool, such as phpMyAdmin or MySQL Workbench.  
 
 - Run the project.
 
