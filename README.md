@@ -78,7 +78,8 @@ This project aims to provide an effective solution for managing internet rooms, 
 - Integration of online payment features.
 - Detailed revenue reporting.
 ## :email: Contact
-- Email: tttiuem2k3@gmail.com
-- Linkedin: https://www.linkedin.com/in/thinh-tran-04122k3/
+- 📧 Email: tttiuem2k3@gmail.com
+- 👥 Linkedin: [Thịnh Trần](https://www.linkedin.com/in/thinh-tran-04122k3/)
+- 💬 Zalo: +84 329966939
 ## :heart: Thank You
 We sincerely appreciate your time and interest in our project. Your feedback and contributions are always welcome to help us improve and grow.
